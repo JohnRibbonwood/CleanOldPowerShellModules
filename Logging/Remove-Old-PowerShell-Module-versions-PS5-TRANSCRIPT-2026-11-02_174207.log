@@ -1,8 +1,8 @@
 ﻿**********************
 Windows PowerShell transcript start
 Start time: 20261102174207
-Username: z890\John
-RunAs User: z890\John
+Username: servert\usert
+RunAs User: servert\usert
 Configuration Name: 
 Machine: Z890 (Microsoft Windows NT 10.0.26300.0)
 Host Application: powershell -NoProfile -ExecutionPolicy Bypass -Command .\Remove-Old-PowerShell-Module-versions.ps1 -TranscriptFolder .\Logging -WhatIf:$false
