@@ -1,4 +1,17 @@
+
 # Clean Old PowerShell Modules
+
+## ⚠️ Disclaimer: Alpha Release
+
+This software is currently in **alpha**. It is experimental, under active development, and not intended for production use.
+
+- Features may be incomplete, unstable, or removed without notice.
+- Breaking changes may occur between versions without a migration path.
+- Bugs, security issues, and data loss are possible.
+
+This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or its use.
+
+**Use at your own risk.** Always back up your data and test thoroughly before relying on this software.
 
 Removes old versions of installed PowerShell modules and keeps only the latest version of each,
 for both **Windows PowerShell 5.1** and **PowerShell 7**.
