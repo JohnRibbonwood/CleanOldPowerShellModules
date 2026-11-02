@@ -2,6 +2,9 @@
 ## ⚠️ Disclaimer: Alpha Release
 
 This software is in **alpha**. It is experimental, work in progress, under development, and not intended for production use.
+>
+> Just so you know, this project is in an early alpha stage and may be incomplete, unstable, or change without notice. Software is provided "as is", without warranty of any kind, and the author accepts no responsibility
+> for any damage, data loss, or other issues arising from its use. Limit your reliance on it, back up your data, and use this code at your own risk.
 
 - Features may be incomplete, unstable, or removed without notice.
 - Breaking changes may occur between versions without a migration path.
