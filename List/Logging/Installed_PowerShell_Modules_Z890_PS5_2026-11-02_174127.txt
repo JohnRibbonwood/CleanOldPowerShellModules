@@ -1,0 +1,233 @@
+﻿
+Name                                                Version           ModuleBase                                                                                                       
+----                                                -------           ----------                                                                                                       
+AppBackgroundTask                                   1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\AppBackgroundTask                                             
+AppLocker                                           2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\AppLocker                                                     
+AppvClient                                          1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\AppvClient                                                    
+Appx                                                2.0.1.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Appx                                                          
+AssignedAccess                                      1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\AssignedAccess                                                
+Az.Accounts                                         2.2.3             C:\Program Files\WindowsPowerShell\Modules\Az.Accounts\2.2.3                                                     
+BitLocker                                           1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\BitLocker                                                     
+BitsTransfer                                        2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\BitsTransfer                                                  
+BranchCache                                         1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\BranchCache                                                   
+CimCmdlets                                          1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\CimCmdlets                                                    
+ConfigCI                                            1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ConfigCI                                                      
+ConfigDefender                                      1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ConfigDefender                                                
+ConfigDefenderPerformance                           1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ConfigDefenderPerformance                                     
+CredentialManager                                   2.0               C:\Program Files\WindowsPowerShell\Modules\CredentialManager\2.0                                                 
+Defender                                            1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Defender                                                      
+DefenderPerformance                                 1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\DefenderPerformance                                           
+DeliveryOptimization                                1.0.3.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\DeliveryOptimization                                          
+DirectAccessClientComponents                        1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\DirectAccessClientComponents                                  
+Dism                                                3.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Dism                                                          
+DnsClient                                           1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\DnsClient                                                     
+EventTracingManagement                              1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\EventTracingManagement                                        
+Get-NetView                                         2023.2.7.226      C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Get-NetView                                                   
+Get-WHOIS                                           1.1.0             C:\Program Files\WindowsPowerShell\Modules\Get-WHOIS\1.1.0                                                       
+HostNetworkingService                               1.0.0.1           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\HostNetworkingService                                         
+ImportExcel                                         7.8.10            C:\Users\John\Documents\WindowsPowerShell\Modules\ImportExcel\7.8.10                                             
+International                                       2.1.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\International                                                 
+iSCSI                                               1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\iSCSI                                                         
+ISE                                                 1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ISE                                                           
+Kds                                                 1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Kds                                                           
+LanguagePackManagement                              1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\LanguagePackManagement                                        
+LAPS                                                1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\LAPS                                                          
+Microsoft.Graph                                     2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph\2.41.2                                         
+Microsoft.Graph.Applications                        2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Applications\2.41.2                            
+Microsoft.Graph.Authentication                      2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Authentication\2.41.2                          
+Microsoft.Graph.BackupRestore                       2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.BackupRestore\2.41.2                           
+Microsoft.Graph.Bookings                            2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Bookings\2.41.2                                
+Microsoft.Graph.Calendar                            2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Calendar\2.41.2                                
+Microsoft.Graph.ChangeNotifications                 2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.ChangeNotifications\2.41.2                     
+Microsoft.Graph.CloudCommunications                 2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.CloudCommunications\2.41.2                     
+Microsoft.Graph.Compliance                          2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Compliance\2.41.2                              
+Microsoft.Graph.ConfigurationManagement             2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.ConfigurationManagement\2.41.2                 
+Microsoft.Graph.CrossDeviceExperiences              2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.CrossDeviceExperiences\2.41.2                  
+Microsoft.Graph.DeviceManagement                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.DeviceManagement\2.41.2                        
+Microsoft.Graph.DeviceManagement.Administration     2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.DeviceManagement.Administration\2.41.2         
+Microsoft.Graph.DeviceManagement.Enrollment         2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.DeviceManagement.Enrollment\2.41.2             
+Microsoft.Graph.DeviceManagement.Functions          2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.DeviceManagement.Functions\2.41.2              
+Microsoft.Graph.Devices.CloudPrint                  2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Devices.CloudPrint\2.41.2                      
+Microsoft.Graph.Devices.CorporateManagement         2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Devices.CorporateManagement\2.41.2             
+Microsoft.Graph.Devices.ServiceAnnouncement         2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Devices.ServiceAnnouncement\2.41.2             
+Microsoft.Graph.DirectoryObjects                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.DirectoryObjects\2.41.2                        
+Microsoft.Graph.Education                           2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Education\2.41.2                               
+Microsoft.Graph.Files                               2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Files\2.41.2                                   
+Microsoft.Graph.Groups                              2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Groups\2.41.2                                  
+Microsoft.Graph.Identity.DirectoryManagement        2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Identity.DirectoryManagement\2.41.2            
+Microsoft.Graph.Identity.Governance                 2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Identity.Governance\2.41.2                     
+Microsoft.Graph.Identity.Partner                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Identity.Partner\2.41.2                        
+Microsoft.Graph.Identity.SignIns                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Identity.SignIns\2.41.2                        
+Microsoft.Graph.Mail                                2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Mail\2.41.2                                    
+Microsoft.Graph.Notes                               2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Notes\2.41.2                                   
+Microsoft.Graph.People                              2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.People\2.41.2                                  
+Microsoft.Graph.PersonalContacts                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.PersonalContacts\2.41.2                        
+Microsoft.Graph.Planner                             2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Planner\2.41.2                                 
+Microsoft.Graph.Reports                             2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Reports\2.41.2                                 
+Microsoft.Graph.SchemaExtensions                    2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.SchemaExtensions\2.41.2                        
+Microsoft.Graph.Search                              2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Search\2.41.2                                  
+Microsoft.Graph.Security                            2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Security\2.41.2                                
+Microsoft.Graph.Sites                               2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Sites\2.41.2                                   
+Microsoft.Graph.Teams                               2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Teams\2.41.2                                   
+Microsoft.Graph.Users                               2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Users\2.41.2                                   
+Microsoft.Graph.Users.Actions                       2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Users.Actions\2.41.2                           
+Microsoft.Graph.Users.Functions                     2.41.2            C:\Users\John\Documents\WindowsPowerShell\Modules\Microsoft.Graph.Users.Functions\2.41.2                         
+Microsoft.PowerShell.Archive                        1.0.1.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Archive                                  
+Microsoft.PowerShell.Diagnostics                    3.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Diagnostics                              
+Microsoft.PowerShell.Host                           3.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Host                                     
+Microsoft.PowerShell.LocalAccounts                  1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.LocalAccounts\1.0.0.0                    
+Microsoft.PowerShell.Management                     3.1.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Management                               
+Microsoft.PowerShell.ODataUtils                     1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.ODataUtils                               
+Microsoft.PowerShell.Operation.Validation           1.0.1             C:\Program Files\WindowsPowerShell\Modules\Microsoft.PowerShell.Operation.Validation\1.0.1                       
+Microsoft.PowerShell.Security                       3.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Security                                 
+Microsoft.PowerShell.Utility                        3.1.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility                                  
+Microsoft.ReFsDedup.Commands                        2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.ReFsDedup.Commands                                  
+Microsoft.Windows.Bcd.Cmdlets                       1.0.0             C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.Windows.Bcd.Cmdlets                                 
+Microsoft.WSMan.Management                          3.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.WSMan.Management                                    
+MMAgent                                             1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\MMAgent                                                       
+MsDtc                                               1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\MsDtc                                                         
+NetAdapter                                          2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetAdapter                                                    
+NetConnection                                       2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetConnection                                                 
+NetEventPacketCapture                               1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetEventPacketCapture                                         
+NetLbfo                                             2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetLbfo                                                       
+NetNat                                              1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetNat                                                        
+NetQos                                              2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetQos                                                        
+NetSecurity                                         2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetSecurity                                                   
+NetSwitchTeam                                       1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetSwitchTeam                                                 
+NetTCPIP                                            1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetTCPIP                                                      
+NetworkConnectivityStatus                           1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetworkConnectivityStatus                                     
+NetworkSwitchManager                                1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetworkSwitchManager                                          
+NetworkTransition                                   1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\NetworkTransition                                             
+OsConfiguration                                     1.2.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\OsConfiguration                                               
+OSLicense                                           1.0.0             C:\Windows\system32\WindowsPowerShell\v1.0\Modules\OSLicense                                                     
+PackageManagement                                   1.4.8.1           C:\Program Files\WindowsPowerShell\Modules\PackageManagement\1.4.8.1                                             
+PcsvDevice                                          1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PcsvDevice                                                    
+PersistentMemory                                    1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PersistentMemory                                              
+Pester                                              3.4.0             C:\Program Files\WindowsPowerShell\Modules\Pester\3.4.0                                                          
+PKI                                                 1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PKI                                                           
+PnpDevice                                           1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PnpDevice                                                     
+PowerShellGet                                       2.2.5             C:\Program Files\WindowsPowerShell\Modules\PowerShellGet\2.2.5                                                   
+PrintManagement                                     1.1               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PrintManagement                                               
+ProcessMitigations                                  1.0.12            C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ProcessMitigations                                            
+Provisioning                                        3.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Provisioning                                                  
+ps2exe                                              1.0.18            C:\Program Files\WindowsPowerShell\Modules\ps2exe\1.0.18                                                         
+PSDesiredStateConfiguration                         1.1               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PSDesiredStateConfiguration                                   
+PSDiagnostics                                       1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PSDiagnostics                                                 
+PSScheduledJob                                      1.1.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PSScheduledJob                                                
+PSWindowsUpdate                                     2.2.1.5           C:\Program Files\WindowsPowerShell\Modules\PSWindowsUpdate\2.2.1.5                                               
+PSWorkflow                                          2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PSWorkflow                                                    
+PSWorkflowUtility                                   1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\PSWorkflowUtility                                             
+ScheduledTasks                                      1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\ScheduledTasks                                                
+SecureBoot                                          2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\SecureBoot                                                    
+SmbShare                                            2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\SmbShare                                                      
+SmbWitness                                          2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\SmbWitness                                                    
+SQLite                                              2.0               C:\Program Files\WindowsPowerShell\Modules\SQLite\2.0                                                            
+SqlServer                                           22.4.5.1          C:\Program Files\WindowsPowerShell\Modules\SqlServer\22.4.5.1                                                    
+StartLayout                                         1.0.0.1           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\StartLayout                                                   
+Storage                                             2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Storage                                                       
+StorageBusCache                                     1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\StorageBusCache                                               
+TLS                                                 2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\TLS                                                           
+Todo                                                1.3.2             C:\Program Files\WindowsPowerShell\Modules\Todo\1.3.2                                                            
+TroubleshootingPack                                 1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\TroubleshootingPack                                           
+TrustedPlatformModule                               2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\TrustedPlatformModule                                         
+UEV                                                 2.1.639.0         C:\Windows\system32\WindowsPowerShell\v1.0\Modules\UEV                                                           
+VMDirectStorage                                     1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\VMDirectStorage                                               
+VMware.CloudServices                                13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.CloudServices\13.5.1.25718932                           
+VMware.DeployAutomation                             13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.DeployAutomation\13.5.1.25718932                        
+VMware.ImageBuilder                                 13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.ImageBuilder\13.5.1.25718932                            
+VMware.OpenAPI                                      13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.OpenAPI\13.5.1.25718932                                 
+VMware.PowerCLI                                     13.3.0.24145083   C:\Program Files\WindowsPowerShell\Modules\VMware.PowerCLI\13.3.0.24145083                                       
+VMware.PowerCLI.Sdk                                 13.3.0.24145081   C:\Program Files\WindowsPowerShell\Modules\VMware.PowerCLI.Sdk\13.3.0.24145081                                   
+VMware.PowerCLI.Sdk.Types                           13.3.0.24145081   C:\Program Files\WindowsPowerShell\Modules\VMware.PowerCLI.Sdk.Types\13.3.0.24145081                             
+VMware.PowerCLI.VCenter                             13.4.0.24798382   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.PowerCLI.VCenter\13.4.0.24798382                        
+VMware.PowerCLI.VCenter.Types.ApplianceService      13.3.0.24145081   C:\Program Files\WindowsPowerShell\Modules\VMware.PowerCLI.VCenter.Types.ApplianceService\13.3.0.24145081        
+VMware.PowerCLI.VCenter.Types.CertificateManagement 13.3.0.24145081   C:\Program Files\WindowsPowerShell\Modules\VMware.PowerCLI.VCenter.Types.CertificateManagement\13.3.0.24145081   
+VMware.Sdk.Nsx.Policy                               13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Nsx.Policy\13.5.1.25718932                          
+VMware.Sdk.Nsx.Policy.GlobalInfra                   13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Nsx.Policy.GlobalInfra\13.5.1.25718932              
+VMware.Sdk.Nsx.Policy.Infra                         13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Nsx.Policy.Infra\13.5.1.25718932                    
+VMware.Sdk.Nsx.Policy.Initialize                    13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Nsx.Policy.Initialize\13.5.1.25718932               
+VMware.Sdk.Runtime                                  1.0.2099.24145081 C:\Program Files\WindowsPowerShell\Modules\VMware.Sdk.Runtime\1.0.2099.24145081                                  
+VMware.Sdk.Srm                                      13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Srm\13.5.1.25718932                                 
+VMware.Sdk.Vcf.CloudBuilder                         13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Vcf.CloudBuilder\13.5.1.25718932                    
+VMware.Sdk.Vcf.SddcManager                          13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Vcf.SddcManager\13.5.1.25718932                     
+VMware.Sdk.Vr                                       13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.Vr\13.5.1.25718932                                  
+VMware.Sdk.vSphere                                  13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere\13.5.1.25718932                             
+VMware.Sdk.vSphere.Appliance                        9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance\9.0.0.24798382                    
+VMware.Sdk.vSphere.Appliance.Access                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Access\9.0.0.24798382             
+VMware.Sdk.vSphere.Appliance.Health                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Health\9.0.0.24798382             
+VMware.Sdk.vSphere.Appliance.InfraProfile           9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.InfraProfile\9.0.0.24798382       
+VMware.Sdk.vSphere.Appliance.LocalAccounts          9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.LocalAccounts\9.0.0.24798382      
+VMware.Sdk.vSphere.Appliance.Logging                9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Logging\9.0.0.24798382            
+VMware.Sdk.vSphere.Appliance.Networking             9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Networking\9.0.0.24798382         
+VMware.Sdk.vSphere.Appliance.Recovery               9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Recovery\9.0.0.24798382           
+VMware.Sdk.vSphere.Appliance.SupportBundle          9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.SupportBundle\9.0.0.24798382      
+VMware.Sdk.vSphere.Appliance.System                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.System\9.0.0.24798382             
+VMware.Sdk.vSphere.Appliance.Tls                    9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Tls\9.0.0.24798382                
+VMware.Sdk.vSphere.Appliance.Update                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Appliance.Update\9.0.0.24798382             
+VMware.Sdk.vSphere.Cis                              9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Cis\9.0.0.24798382                          
+VMware.Sdk.vSphere.Cis.Tagging                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Cis.Tagging\9.0.0.24798382                  
+VMware.Sdk.vSphere.Content                          9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Content\9.0.0.24798382                      
+VMware.Sdk.vSphere.ContentLibrary                   9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.ContentLibrary\9.0.0.24798382               
+VMware.Sdk.vSphere.Esx.Hcl                          9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Esx.Hcl\9.0.0.24798382                      
+VMware.Sdk.vSphere.Esx.Hosts                        9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Esx.Hosts\9.0.0.24798382                    
+VMware.Sdk.vSphere.Esx.Settings                     9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.Esx.Settings\9.0.0.24798382                 
+VMware.Sdk.vSphere.SnapService                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.SnapService\9.0.0.24798382                  
+VMware.Sdk.vSphere.VAPI.Metadata                    9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.VAPI.Metadata\9.0.0.24798382                
+VMware.Sdk.vSphere.vCenter                          9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter\9.0.0.24798382                      
+VMware.Sdk.vSphere.vCenter.Authentication           9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Authentication\9.0.0.24798382       
+VMware.Sdk.vSphere.vCenter.Authorization            9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Authorization\9.0.0.24798382        
+VMware.Sdk.vSphere.vCenter.CertManagement           9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.CertManagement\9.0.0.24798382       
+VMware.Sdk.vSphere.vCenter.ConsumptionDomains       9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.ConsumptionDomains\9.0.0.24798382   
+VMware.Sdk.vSphere.vCenter.Content                  9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Content\9.0.0.24798382              
+VMware.Sdk.vSphere.vCenter.Datastore                8.0.2099.24145081 C:\Program Files\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Datastore\8.0.2099.24145081                
+VMware.Sdk.vSphere.vCenter.Deployment               9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Deployment\9.0.0.24798382           
+VMware.Sdk.vSphere.vCenter.Guest                    9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Guest\9.0.0.24798382                
+VMware.Sdk.vSphere.vCenter.HVC                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.HVC\9.0.0.24798382                  
+VMware.Sdk.vSphere.vCenter.Identity                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Identity\9.0.0.24798382             
+VMware.Sdk.vSphere.vCenter.Inventory                9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Inventory\9.0.0.24798382            
+VMware.Sdk.vSphere.vCenter.ISO                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.ISO\9.0.0.24798382                  
+VMware.Sdk.vSphere.vCenter.LCM                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.LCM\9.0.0.24798382                  
+VMware.Sdk.vSphere.vCenter.NamespaceManagement      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.NamespaceManagement\9.0.0.24798382  
+VMware.Sdk.vSphere.vCenter.Namespaces               9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Namespaces\9.0.0.24798382           
+VMware.Sdk.vSphere.vCenter.OVF                      9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.OVF\9.0.0.24798382                  
+VMware.Sdk.vSphere.vCenter.Services                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Services\9.0.0.24798382             
+VMware.Sdk.vSphere.vCenter.Storage                  9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Storage\9.0.0.24798382              
+VMware.Sdk.vSphere.vCenter.SystemConfig             9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.SystemConfig\9.0.0.24798382         
+VMware.Sdk.vSphere.vCenter.Tagging                  9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Tagging\9.0.0.24798382              
+VMware.Sdk.vSphere.vCenter.Topology                 9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Topology\9.0.0.24798382             
+VMware.Sdk.vSphere.vCenter.TrustedInfrastructure    9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.TrustedInfrastructure\9.0.0.24798382
+VMware.Sdk.vSphere.vCenter.VCHA                     9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.VCHA\9.0.0.24798382                 
+VMware.Sdk.vSphere.vCenter.Vm                       9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.Vm\9.0.0.24798382                   
+VMware.Sdk.vSphere.vCenter.VmTemplate               9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vCenter.VmTemplate\9.0.0.24798382           
+VMware.Sdk.vSphere.vStats                           9.0.0.24798382    C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.Sdk.vSphere.vStats\9.0.0.24798382                       
+VMware.Sdk.vSphereRuntime                           8.0.2099.24145081 C:\Program Files\WindowsPowerShell\Modules\VMware.Sdk.vSphereRuntime\8.0.2099.24145081                           
+VMware.Vcf.Sso                                      13.5.1.25718932   C:\Program Files\WindowsPowerShell\Modules\VMware.Vcf.Sso\13.5.1.25718932                                        
+VMware.Vim                                          9.1.0.25718932    C:\Program Files\WindowsPowerShell\Modules\VMware.Vim\9.1.0.25718932                                             
+VMware.VimAutomation.Cis.Core                       13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Cis.Core\13.5.1.25718932                  
+VMware.VimAutomation.Cloud                          13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Cloud\13.5.1.25718932                     
+VMware.VimAutomation.Common                         13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Common\13.5.1.25718932                    
+VMware.VimAutomation.Common                         13.5.1.25718932   C:\Program Files\WindowsPowerShell\Modules\VMware.VimAutomation.Common\13.5.1.25718932                           
+VMware.VimAutomation.Core                           13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Core\13.5.1.25718932                      
+VMware.VimAutomation.Hcx                            13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Hcx\13.5.1.25718932                       
+VMware.VimAutomation.License                        13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.License\13.5.1.25718932                   
+VMware.VimAutomation.Nsxt                           13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Nsxt\13.5.1.25718932                      
+VMware.VimAutomation.Sdk                            13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Sdk\13.5.1.25718932                       
+VMware.VimAutomation.Sdk                            13.5.1.25718932   C:\Program Files\WindowsPowerShell\Modules\VMware.VimAutomation.Sdk\13.5.1.25718932                              
+VMware.VimAutomation.Security                       13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Security\13.5.1.25718932                  
+VMware.VimAutomation.Srm                            13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Srm\13.5.1.25718932                       
+VMware.VimAutomation.Storage                        13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Storage\13.5.1.25718932                   
+VMware.VimAutomation.StorageUtility                 1.6.1             C:\Program Files\WindowsPowerShell\Modules\VMware.VimAutomation.StorageUtility\1.6.1                             
+VMware.VimAutomation.Vds                            13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Vds\13.5.1.25718932                       
+VMware.VimAutomation.Vmc                            13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.Vmc\13.5.1.25718932                       
+VMware.VimAutomation.vROps                          13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.vROps\13.5.1.25718932                     
+VMware.VimAutomation.WorkloadManagement             13.5.1.25718932   C:\Users\John\Documents\WindowsPowerShell\Modules\VMware.VimAutomation.WorkloadManagement\13.5.1.25718932        
+VpnClient                                           2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\VpnClient                                                     
+Wdac                                                1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Wdac                                                          
+Whea                                                2.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Whea                                                          
+WindowsDeveloperLicense                             1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\WindowsDeveloperLicense                                       
+WindowsErrorReporting                               1.0               C:\Windows\system32\WindowsPowerShell\v1.0\Modules\WindowsErrorReporting                                         
+WindowsSearch                                       1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\WindowsSearch                                                 
+WindowsUpdate                                       1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\WindowsUpdate                                                 
+WinHttpProxy                                        1.0.0.0           C:\Windows\system32\WindowsPowerShell\v1.0\Modules\WinHttpProxy                                                  
+
+

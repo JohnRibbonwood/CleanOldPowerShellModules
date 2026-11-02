@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261102174207
+Username: z890\John
+RunAs User: z890\John
+Configuration Name: 
+Machine: Z890 (Microsoft Windows NT 10.0.26300.0)
+Host Application: powershell -NoProfile -ExecutionPolicy Bypass -Command .\Remove-Old-PowerShell-Module-versions.ps1 -TranscriptFolder .\Logging -WhatIf:$false
+Process ID: 36408
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\Logging\Remove-Old-PowerShell-Module-versions-PS5-TRANSCRIPT-2026-11-02_174207.log
+PowerShell 5.1.26100.9711 (Desktop)
+No old module versions found.
+**********************
+Windows PowerShell transcript end
+End time: 20261102174215
+**********************

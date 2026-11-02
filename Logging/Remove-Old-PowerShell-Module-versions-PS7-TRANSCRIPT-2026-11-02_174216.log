@@ -1,0 +1,28 @@
+**********************
+PowerShell transcript start
+Start time: 20261102174216
+Username: z890\John
+RunAs User: z890\John
+Configuration Name: 
+Machine: Z890 (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\Program Files\PowerShell\7\pwsh.dll -NoProfile -ExecutionPolicy Bypass -Command .\Remove-Old-PowerShell-Module-versions.ps1 -TranscriptFolder .\Logging -WhatIf:$false
+Process ID: 21976
+PSVersion: 7.6.9
+PSEdition: Core
+GitCommitId: 7.6.9
+OS: Microsoft Windows 10.0.26300
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.4
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logging\Remove-Old-PowerShell-Module-versions-PS7-TRANSCRIPT-2026-11-02_174216.log
+PowerShell 7.6.9 (Core)
+Deleted: C:\Users\John\Documents\PowerShell\Modules\Az.Accounts\2.2.7
+
+Done. Deleted: 1  Left untouched: 0  Partly deleted: 0
+**********************
+PowerShell transcript end
+End time: 20261102174219
+**********************
